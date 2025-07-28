@@ -21,7 +21,7 @@ It was developed as a project from CS-107 course on Computer Programming.
 - Arrays for dynamic management
 - Pointers and References
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repo:
     ```bash
