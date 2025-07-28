@@ -47,5 +47,6 @@ If you have any questions or feedback feel free to reach out:
 
 - Linkedin: https://www.linkedin.com/in/shahryar-a-667783236
 - Email: ibneameer2005@gmail.com
+> Star ⭐ the repo if you find it helpful.
 
 
